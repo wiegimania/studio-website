@@ -1,0 +1,246 @@
+/**
+    * @author Daniel Wiegand <daniel@wiegand.io>
+    * @copyright Creative Studio Daniel Wiegand
+*/
+
+
+/* global settings */
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+/* 2017 clearfix */
+.group:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* basic styles */
+html, body {
+    background-color: $beige;
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    font-family: $primary-font, $fallback-font;
+    color: $black;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+}
+
+strong {
+    font-weight: 700;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, figure {
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    font-size: 30px;
+    font-family: $secondary-font, $fallback-font;
+}
+
+h3, h4, h5, h6 {
+    font-family: $primary-font, $fallback-font;
+}
+
+a {
+    color: $red;
+}
+
+h2, h3 {
+    color: $black;
+}
+
+p {
+    color: $grey;
+    line-height: 16px;
+    line-height: 18px;
+    margin-bottom: 8px;
+    &.pt-10 {
+        padding: 5px 0;
+    }
+}
+
+address {
+    font-style: normal;
+}
+
+blockquote {
+    font-family: $secondary-font, $fallback-font;
+    font-size: 30px;
+}
+
+ul {
+    color: $grey;
+    padding-left: $space-lg;
+}
+
+.sr {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
+
+.obj--center {
+    text-align: center;
+}
+
+.image--round {
+    @include border-radius(50%);
+}
+
+header {
+    margin: 0 $space-lg;
+    text-align: center;
+    @media only screen and (max-width: ($page-mobile - 1)) {
+        margin: 0 $space-sm;
+    }
+
+    @media only screen and (max-width: ($page-mobile-xs - 1)) {
+        img {
+            width: 100%;
+        }
+    }
+}
+
+section, footer {
+    hyphens: auto;
+    margin: 0 auto;
+    padding-left: $space-lg;
+    padding-right: $space-lg;
+    width: $page-desktop;
+
+    @media only screen and (max-width: ($page-desktop - 1)) {
+        width: 100%;
+    }
+
+    @media only screen and (max-width: ($page-mobile-xs - 1)) {
+        padding-left: $space-sm;
+        padding-right: $space-sm;
+    }
+
+}
+
+section {
+    margin-bottom: $space-section;
+    ul.logo {
+        list-style-type: none;
+        padding-left: 0px;
+        li {
+            display: inline-block;
+            padding-bottom: $space-sm;
+            padding-top: $space-sm;
+            padding-right: $space-sm;
+            &:last-child {
+                padding-right: 0;
+            }
+            text-align: center;
+            vertical-align: middle;
+            width: 16%;
+
+            @media only screen and (max-width: ($page-tablet-landscape - 1)) {
+                width: 32%;
+            }
+            @media only screen and (max-width: ($page-mobile - 1)) {
+                width: 49%;
+            }
+
+            img {
+                //@include filter(opacity(75%) grayscale(100%));
+                width: 100%;
+            }
+        }
+    }
+
+    ul.social {
+        padding-left: 0px;
+        li {
+            list-style-type: none;
+            padding-bottom: $space-sm;
+            a {
+                img {
+                    @include filter(opacity(75%) grayscale(100%));
+                    margin-right: $space-sm;
+                    vertical-align: middle;
+                    width: $space-lg;
+                }
+            }
+        }
+    }
+
+}
+
+
+.grid--wrapper {
+
+    // @supports (display: grid) {
+    display: -ms-grid;
+    display: grid;
+    -ms-grid-columns: 1fr $space-lg 1fr;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: $space-lg;
+    @media only screen and (max-width: ($page-mobile - 1)) {
+        -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+    }
+
+    div:nth-child(1) {
+        -ms-grid-column: 1;
+        -ms-grid-row: 1;
+    }
+
+    div:nth-child(2) {
+        -ms-grid-column: 3;
+        -ms-grid-row: 1;
+        @media only screen and (max-width: ($page-mobile - 1)) {
+            -ms-grid-column: 1;
+            -ms-grid-row: 2;
+        }
+    }
+
+    div {
+        img {
+            width: 100%;
+        }
+    }
+    // }
+}
+
+
+@media only screen and (max-width: ($page-mobile - 1)) {
+    section.map .grid--wrapper div {
+        order: 2;
+    }
+    section.map .grid--wrapper div:nth-child(2) {
+        order: 1;
+    }
+}
+
+footer {
+    font-weight: 300;
+    margin-bottom: $space-lg;
+    span:after {
+        content: ", ";
+        @media only screen and (max-width: ($page-mobile - 1)) {
+            content: "";
+        }
+    }
+    @media only screen and (max-width: ($page-mobile - 1)) {
+        text-align: center;
+        width: 100%;
+        a {
+            display: inline-block;
+        }
+    }
+}

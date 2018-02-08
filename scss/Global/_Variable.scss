@@ -1,0 +1,33 @@
+/**
+    * @author Daniel Wiegand <daniel@wiegand.io>
+    * @copyright Creative Studio Daniel Wiegand
+*/
+
+/**
+ * Font
+ * deliverd by Google via Google FontAPI
+ */
+$primary-font: "Muli";
+$secondary-font: "Museo Slab W03_700";
+$fallback-font: Helvetica, Arial, Verdana;
+
+/**
+ * Color
+ */
+$black: #000;
+$white: #FFF;
+$grey: #4D4D4D;
+$beige: #f3eadb;
+$red: #b8292f;
+
+/**
+ * Sizes
+ */
+$page-desktop: 960px;
+$page-tablet-landscape: 750px;
+$page-tablet: 600px;
+$page-mobile: 500px;
+$page-mobile-xs: 360px;
+$space-lg: 20px;
+$space-sm: 10px;
+$space-section: 50px;

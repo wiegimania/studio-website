@@ -1,0 +1,11 @@
+/* Museo Slab 700 */
+@font-face {
+	font-family: 'Museo Slab W03_700';
+	src: url('../fonts/6cbd88cd-166d-48cc-b610-3b068efd827c.eot');
+	src: url('../fonts/6cbd88cd-166d-48cc-b610-3b068efd827c.eot') format('embedded-opentype'),
+		url('../fonts/c8f84ac0-42bf-4a3b-bd29-20af6769569d.woff2') format('woff2'),
+		url('../fonts/87b34905-6160-4e56-9c57-252b84e4b6b5.woff') format('woff'),
+		url('../fonts/7bade093-adbd-4ed6-bdd9-3f00e27010be.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+}
