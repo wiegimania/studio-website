@@ -50,14 +50,28 @@
                 fill: currentColor;
             }
 
-            header {
-                background-color: rgb(242, 145, 0);
-                color: rgb(77, 77, 77);
+            body {
+                color: rgb(21, 21, 21);
             }
 
-            header a {
-                color: rgb(77, 77, 77);
+            a {
+                color: rgb(21, 21, 21);
+                -o-transition:.5s;
+                -ms-transition:.5s;
+                -moz-transition:.5s;
+                -webkit-transition:.5s;
+                transition:.5s;
+                text-decoration: none;
             }
+
+            a:hover {
+                color: rgb(242, 145, 0);
+            }
+
+            header {
+                background-color: rgb(255, 255, 255);
+            }
+
 
         </style>
     </head>
@@ -73,10 +87,14 @@
             
             <ul>
                 <li>
-                   <svg class="icon icon-phone"><use xlink:href="symbol-defs.svg#icon-phone"></use></svg> +49 170 470 6439
+                    <a href="tel:+491704706439" rel="noopener noreferrer">
+                        <svg class="icon icon-phone"><use xlink:href="symbol-defs.svg#icon-phone"></use></svg> +49 170 470 6439
+                    </a>
                 </li>
                 <li>
-                   <svg class="icon icon-envelope-o"><use xlink:href="symbol-defs.svg#icon-envelope-o"></use></svg> <a href="mailto:daniel@wiegand.io" target="_blank" rel="noopener noreferrer">daniel@wiegand.io</a>
+                    <a href="mailto:daniel@wiegand.io" target="_blank" rel="noopener noreferrer">
+                        <svg class="icon icon-envelope-o"><use xlink:href="symbol-defs.svg#icon-envelope-o"></use></svg> daniel@wiegand.io
+                    </a>
                 </li>
             </ul>
 
