@@ -83,7 +83,7 @@
 
         </header>
 
-        <a name="inhalt"></a>
+        <a id="inhalt"></a>
         <section>
             <h1>Daniel Wiegand<br><span>Creative Technologist. Adventurer. Consultant. Coach. Speaker.</span></h1>
         </section>
