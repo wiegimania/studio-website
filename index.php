@@ -17,72 +17,12 @@
         <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png" />
         <link href="https://github.com/wiegimania" rel="me">        
         <style>
-            /* reset */
-            *,*:before,*:after{margin:0;border:0;padding:0;box-sizing:border-box}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}
-            /* custom styles */
-            .sr {
-                clip: rect(1px, 1px, 1px, 1px);
-                position: absolute !important;
-                height: 1px;
-                width: 1px;
-                overflow: hidden;
+            <?php
+            $file = 'css/styles.css';
+            if ( file_exists( $file ) ) {
+                readfile($file);
             }
-
-            .icon { 
-                /* 
-                icon-envelope-o
-                icon-external-link
-                icon-phone
-                icon-twitter
-                icon-github
-                icon-linkedin
-                icon-instagram
-                icon-skype
-                icon-foursquare
-                icon-wordpress
-                icon-spotify
-                 */
-                display: inline-block;
-                width: 1em;
-                height: 1em;
-                stroke-width: 0;
-                stroke: currentColor;
-                fill: currentColor;
-            }
-
-            .orange {
-                background-color: rgb(242, 145, 0);
-                color: rgb(255, 255, 255);
-            }
-
-            body {
-                color: rgb(21, 21, 21);
-                font-family: sans-serif;
-            }
-
-            a {
-                color: rgb(21, 21, 21);
-                -o-transition:.5s;
-                -ms-transition:.5s;
-                -moz-transition:.5s;
-                -webkit-transition:.5s;
-                transition:.5s;
-                text-decoration: none;
-            }
-
-            a:hover {
-                color: rgb(242, 145, 0);
-            }
-
-            header {
-                background-color: rgb(255, 255, 255);
-            }
-
-            /* layout tests */ 
-            header ul li {
-                display: inline;
-            }
-
+            ?>
         </style>
     </head>
     <body>

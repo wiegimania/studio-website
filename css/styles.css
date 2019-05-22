@@ -1,0 +1,74 @@
+/* reset */
+*,*:before,*:after{margin:0;border:0;padding:0;box-sizing:border-box}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}
+
+/* variables */
+:root {
+    --primary_color: rgb(21, 21, 21);
+    --secondary_color: rgb(255, 255, 255);
+    --marking_color: rgb(242, 145, 0);
+}
+
+
+/* custom styles */
+.sr {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
+
+.icon { 
+    /* 
+    icon-envelope-o
+    icon-external-link
+    icon-phone
+    icon-twitter
+    icon-github
+    icon-linkedin
+    icon-instagram
+    icon-skype
+    icon-foursquare
+    icon-wordpress
+    icon-spotify
+     */
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+}
+
+.orange {
+    background-color: var(--marking_color);
+    color: var(--secondary_color);
+}
+
+body {
+    color: var(--primary_color);
+    font-family: sans-serif;
+}
+
+a {
+    color: var(--primary_color);
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--marking_color);
+}
+
+header {
+    background-color: var(--secondary_color);
+}
+
+/* layout tests */ 
+header ul li {
+    display: inline;
+}
