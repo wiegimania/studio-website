@@ -115,6 +115,7 @@
 
         <section>
             <h2>Meine Kunden & Partner</h2>
+            <p>Seit meiner Selbstständigkeit betreue ich in unterschiedlichen Tätigkeiten, bsp. als Entwickler, Berater, Projektmanager, uvm., meine nationalen und internationalen Kunden. Eine Auswahl finden sie hier:</p>
             <ul class="logo">
                 <li><img src="images/Smashing-Magazine-Logo.png" alt="Logo Smashing Magazine" /></li>
                 <li><img src="images/AWO-Logo.png" alt="Logo AWO" /></li>
@@ -140,9 +141,7 @@
             <address class="vcard">
                 <a href="tel:+491704706439" rel="noopener noreferrer" class="tel work voice"><svg class="icon icon-phone" aria-label="Phone"><use xlink:href="images/symbol-defs.svg#icon-phone"></use></svg> +49 170 4706439</a><br>
                 <a class="email" href="mailto:daniel@wiegand.io" target="_blank" rel="noopener noreferrer"><svg class="icon icon-envelope-o"><use xlink:href="images/symbol-defs.svg#icon-envelope-o"></use></svg> daniel@wiegand.io</a><br>
-                <a href="skype:wiegimania" rel="noopener nofollow">
-                        <svg class="icon icon-skype" aria-label="Daniel Wiegand on Skype"><use xlink:href="images/symbol-defs.svg#icon-skype"></use></svg> Skype
-                </a>
+                <a href="skype:wiegimania" rel="noopener nofollow"><svg class="icon icon-skype" aria-label="Daniel Wiegand on Skype"><use xlink:href="images/symbol-defs.svg#icon-skype"></use></svg> Skype</a>
             </address>  
 
             <h3>Treffen Sie mich</h3>
