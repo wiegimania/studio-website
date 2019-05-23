@@ -6,6 +6,9 @@
     --primary_color: rgb(21, 21, 21);
     --secondary_color: rgb(255, 255, 255);
     --marking_color: rgb(242, 145, 0);
+    /*--primary_font:;*/
+    --secondary_font: sans-serif;
+    --max_page_width: 960px;
 }
 
 
@@ -38,6 +41,7 @@
     stroke-width: 0;
     stroke: currentColor;
     fill: currentColor;
+    vertical-align: sub;
 }
 
 .orange {
@@ -47,7 +51,14 @@
 
 body {
     color: var(--primary_color);
-    font-family: sans-serif;
+    font-family: var(--secondary_font);
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+h2, h3 {
+    color: var(--marking_color);
 }
 
 a {
@@ -64,8 +75,44 @@ a:hover {
     color: var(--marking_color);
 }
 
+address {
+    font-style: normal;
+}
+
 header {
     background-color: var(--secondary_color);
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 1rem 0;
+}
+
+header ul.social {
+    text-align: right;
+}
+
+section ul li {
+    font-weight: 600;
+    list-style-type: none;
+}
+
+header, section {
+    max-width: var(--max_page_width);
+}
+
+@media only screen and (max-width: 959px) {
+    header, section {
+        padding: 0 1rem;
+        width: 100%;
+    }
+    header {
+        grid-template-columns: 100%;
+        font-size: 0.9rem;
+        padding: 2rem 1rem;
+        text-align: center;
+    }
+    header ul.social {
+        text-align: center;
+    }
 }
 
 /* layout tests */ 
