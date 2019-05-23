@@ -85,6 +85,7 @@ body {
 
 h2, h3 {
     color: var(--marking_color);
+    padding: 1rem 0rem 0.25rem 0rem;
 }
 
 a {
@@ -99,6 +100,11 @@ a {
 
 a:hover {
     color: var(--marking_color);
+}
+
+p {
+    hyphens: auto;
+    padding: 0.5rem 0;
 }
 
 address {
@@ -121,7 +127,7 @@ section ul li {
     list-style-type: none;
 }
 
-header, footer, section {
+header, section {
     margin: 0 auto;
     width: var(--max_page_width);
 }
@@ -170,6 +176,22 @@ header ul li {
     display: inline;
 }
 
+ul.iconlist li {
+    line-height: 1.5rem;
+}
+ul.iconlist li:before {
+    height: 0.7rem;
+    width: 1em;
+    content: '';
+    display: inline-block;
+    background-image: url(images/check.png);
+    background-image: url(images/check.svg);
+    background-size: contain;
+    background-repeat: no-repeat; 
+    margin-right:0.2rem; 
+}
+
+
 ul.logo {
     display: grid;
     grid-template-columns: 16% 16% 16% 16% 16% 16%;
@@ -185,13 +207,23 @@ ul.logo li img {
 }
 
 footer {
+    background-color: var(--marking_color);
+    color: var(--secondary_color);
     padding: 1rem;
     text-align: center;
 }
 
+footer a {
+    color: var(--secondary_color);
+}
+
+footer a:hover {
+    color: var(--primary_color);
+}
+
 
 @media only screen and (max-width: 959px) {
-    header, footer, section {
+    header, section {
         padding: 0 1rem;
         width: 100%;
     }

@@ -100,7 +100,7 @@
             <p>
                 Sie sind auf der Suche nach einem ganzheitlichen technischen Partner &ndash; von der Beratung, über die Konzeption bis zur Umsetzung? Durch meine langjährige Erfahrung habe ich ein hohes Expertenwissen in den unterschiedlichen Bereichen. Ein Auszug meiner Leistungen finden Sie hier:<br>
             </p>
-            <ul>
+            <ul class="iconlist">
                 <li>Responsive Frontends</li>
                 <li>Accessibility</li>
                 <li>WordPress-Entwicklung & Systembetreuung</li>
@@ -134,7 +134,7 @@
                 <span class="adr work postal-code">76131</span> <span class="adr work locality">Karlsruhe</span><br>
                 <span class="adr work country-name">Deutschland</span>
             </address>  
-            <p>Klicken Sie hier für Anfahrtsinformationen auf <a href="https://goo.gl/maps/gB5VgH1Awiy4LyU98" target="_blank" rel="nofollow noopener">Google Maps</a>.</p>
+            <p>Anfahrtsinformationen auf <a href="https://goo.gl/maps/gB5VgH1Awiy4LyU98" target="_blank" rel="nofollow noopener">Google Maps</a>.</p>
 
             <h3>Meine Kontaktinfos</h3>
             <address class="vcard">
@@ -150,10 +150,10 @@
                 Ich bin auf folgenden Veranstaltungen, um für gemeinsame Projekte neuen kreativen Input zu sammeln:
             </p>
             <ul>
-                <li><a href="http://webmontag.de/location/karlsruhe/index" target="_blank" rel="nofollow noopener"><strong>Webmontag.Talk</strong></a> am 03. Juni 2019 in Karlsruhe</li>
-                <li><a href="https://2019.europe.wordcamp.org/" target="_blank" rel="nofollow noopener"><strong>WordCamp Europe 2019</strong></a> vom 20. bis 22. Juni 2019 in Berlin</li>
-                <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510800/" target="_blank" rel="nofollow noopener"><strong>WordPress Meetup #24</strong></a> am 18. Juli 2019 in Karlsruhe</li>
-                <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510818/" target="_blank" rel="nofollow noopener"><strong>WordPress Meetup #25</strong></a> am 12. September 2019 in Karlsruhe</li>
+                <li><a href="http://webmontag.de/location/karlsruhe/index" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>Webmontag.Talk</strong></a> am 03. Juni 2019 in Karlsruhe</li>
+                <li><a href="https://2019.europe.wordcamp.org/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordCamp Europe 2019</strong></a> vom 20. bis 22. Juni 2019 in Berlin</li>
+                <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510800/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordPress Meetup #24</strong></a> am 18. Juli 2019 in Karlsruhe</li>
+                <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510818/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordPress Meetup #25</strong></a> am 12. September 2019 in Karlsruhe</li>
             </ul>
             <p>
                 Aber auch unsere Region hat einiges zu bieten und so können Sie mich regelmäßig auf dem <a href="http://webmontag.de/location/karlsruhe/index" rel="nofollow noopener">Webmontag Karlsruhe (Co-Organistor)</a>, <a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/" rel="nofollow noopener">WordPress Meetup Karlsruhe (Co-Organistor)</a> oder anderen Events in und um Karlsruhe treffen.
