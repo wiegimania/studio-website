@@ -2,19 +2,13 @@
 *,*:before,*:after{margin:0;border:0;padding:0;box-sizing:border-box}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}
 
 /* web font */ 
-@font-face {
-  font-family: FontName;
-  src: url('path/filename.woff2') format('woff2'), 
-    url('path/filename.woff') format('woff');
-}
-
 /* muli-300 - latin */
 @font-face {
   font-family: 'Muli';
   font-style: normal;
   font-weight: 300;
-  src: url('../fonts/muli-v11-latin-300.woff2') format('woff2'),
-       url('../fonts/muli-v11-latin-300.woff') format('woff');
+  src: url('fonts/muli-v11-latin-300.woff2') format('woff2'),
+       url('fonts/muli-v11-latin-300.woff') format('woff');
 }
 
 /* muli-regular - latin */
@@ -22,8 +16,8 @@
   font-family: 'Muli';
   font-style: normal;
   font-weight: 400;
-  src: url('../fonts/muli-v11-latin-regular.woff2') format('woff2'),
-       url('../fonts/muli-v11-latin-regular.woff') format('woff');
+  src: url('fonts/muli-v11-latin-regular.woff2') format('woff2'),
+       url('fonts/muli-v11-latin-regular.woff') format('woff');
 }
 
 /* muli-700 - latin */
@@ -31,8 +25,8 @@
   font-family: 'Muli';
   font-style: normal;
   font-weight: 700;
-  src: url('../fonts/muli-v11-latin-700.woff2') format('woff2'),
-       url('../fonts/muli-v11-latin-700.woff') format('woff');
+  src: url('fonts/muli-v11-latin-700.woff2') format('woff2'),
+       url('fonts/muli-v11-latin-700.woff') format('woff');
 }
 
 
