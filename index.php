@@ -84,8 +84,8 @@
         </header>
 
         <a id="inhalt"></a>
-        <section>
-            <h1>Daniel Wiegand<br><span>Creative Technologist. Adventurer. Consultant. Coach. Speaker.</span></h1>
+        <section class="fullwidth csdw">
+            <h1>Daniel Wiegand<br><span>Creative Technologist.<br> Adventurer.<br> Consultant.<br> Coach.<br> Speaker.</span></h1>
         </section>
 
         <section>
@@ -117,7 +117,7 @@
             <h2>Meine Kunden & Partner</h2>
             <ul class="logo">
                 <li><img src="images/Smashing-Magazine-Logo.png" alt="Logo Smashing Magazine" /></li>
-                <li><img src="images/AWO-Logo.png" alt="Logo AWO" style="height:60px;width: auto;" /></li>
+                <li><img src="images/AWO-Logo.png" alt="Logo AWO" /></li>
                 <li><img src="images/Chrono24-Logo.png" alt="Logo Chrono24" /></li>
                 <li><img src="images/Theater-Baden-Baden-Logo.png" alt="Logo Theater Baden-Baden" /></li>
                 <li><img src="images/NORDKAP-Logo.png" alt="Logo Werbeagentur NORD|KAP" /></li>

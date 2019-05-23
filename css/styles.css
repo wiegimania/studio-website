@@ -52,9 +52,9 @@
 body {
     color: var(--primary_color);
     font-family: var(--secondary_font);
-    display: grid;
+    /*display: grid;
     align-content: center;
-    justify-content: center;
+    justify-content: center;*/
 }
 
 h2, h3 {
@@ -95,12 +95,73 @@ section ul li {
     list-style-type: none;
 }
 
-header, section {
-    max-width: var(--max_page_width);
+header, footer, section {
+    margin: 0 auto;
+    width: var(--max_page_width);
 }
 
+section.fullwidth {
+    width: 100%;
+}
+
+section.fullwidth h1 {
+    text-align: center;
+}
+
+section.csdw {
+    background-image: url(images/daniel-wiegand.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    color: var(--secondary_color);
+    margin-bottom: 2rem;
+    min-height: 30rem;
+}
+
+section.csdw h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 3rem;
+    padding-top: 1rem;
+    text-align: unset;
+    text-transform: uppercase;
+    margin: 0 auto;
+    width: var(--max_page_width);
+}
+
+section.csdw h1 span {
+    display: inline-block;
+    font-size: 1.5rem;
+    line-height: 1.5rem;
+    padding-top: 1rem;
+}
+
+header ul li {
+    display: inline;
+}
+
+ul.logo {
+    display: grid;
+    grid-template-columns: 16% 16% 16% 16% 16% 16%;
+}
+
+ul.logo li {
+    text-align: center;
+    vertical-align: middle;
+}
+
+ul.logo li img {
+    width: 100%;
+}
+
+footer {
+    padding: 1rem;
+    text-align: center;
+}
+
+
 @media only screen and (max-width: 959px) {
-    header, section {
+    header, footer, section {
         padding: 0 1rem;
         width: 100%;
     }
@@ -113,9 +174,31 @@ header, section {
     header ul.social {
         text-align: center;
     }
+
 }
 
-/* layout tests */ 
-header ul li {
-    display: inline;
+@media only screen and (max-width: 639px) {
+    section.csdw {
+        background-image: url(images/sm-daniel-wiegand.png);
+        min-height: 18rem;
+    }
+
+    section.csdw h1 {
+        font-size: 2rem;
+    }
+
+    section.csdw h1 span {
+        font-size: 1rem;
+        line-height: 1rem;
+    }
+
+    ul.logo {
+        grid-template-columns: 32% 32% 32%;
+    }
+}
+
+@media only screen and (max-width: 499px) {
+    ul.logo {
+        grid-template-columns: 48% 48%;
+    }
 }
