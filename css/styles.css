@@ -126,6 +126,10 @@ header, footer, section {
     width: var(--max_page_width);
 }
 
+section {
+    margin-bottom: 2rem;
+}
+
 section.fullwidth {
     width: 100%;
 }
