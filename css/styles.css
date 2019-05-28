@@ -34,7 +34,7 @@
 :root {
     --primary_color: rgb(21, 21, 21);
     --secondary_color: rgb(255, 255, 255);
-    --marking_color: rgb(242, 145, 0);
+    --marking_color: rgb(242, 145, 0); /* rgb(184, 41, 47); <-- dunkler Rotton */
     --fonts: 'Muli', sans-serif;
     --max_page_width: 960px;
 }
