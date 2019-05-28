@@ -36,7 +36,7 @@
     --secondary_color: rgb(255, 255, 255);
     --marking_color: rgb(242, 145, 0); /* rgb(184, 41, 47); <-- dunkler Rotton */
     --fonts: 'Muli', sans-serif;
-    --max_page_width: 960px;
+    --max_page_width: 1130px;
 }
 
 
@@ -200,6 +200,18 @@ ul.logo li img {
     width: 100%;
 }
 
+ul.card {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    margin-bottom: 1em;
+}
+
+ul.card li {
+    font-weight: 400;
+    line-height: 1.5em;
+    padding: 0 1em 0 0;
+}
+
 footer {
     background-color: var(--marking_color);
     color: var(--secondary_color);
@@ -216,7 +228,7 @@ footer a:hover {
 }
 
 
-@media only screen and (max-width: 959px) {
+@media only screen and (max-width: 1129px) {
     header, section {
         padding: 0 1rem;
         width: 100%;
@@ -253,6 +265,10 @@ footer a:hover {
 
     ul.logo {
         grid-template-columns: 32% 32% 32%;
+    }
+
+    ul.card {
+        grid-template-columns: 100%;
     }
 }
 
