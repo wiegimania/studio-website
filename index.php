@@ -84,9 +84,11 @@
         </header>
 
         <a id="inhalt"></a>
-        <section class="fullwidth csdw">
-            <h1>Daniel Wiegand<br><span>Creative Technologist.<br> Adventurer.<br> Consultant.<br> Coach.<br> Speaker.</span></h1>
-        </section>
+        <div class="fullwidth csdw">
+            <section>
+                <h1>Daniel Wiegand<br><span>Creative Technologist.<br> Adventurer.<br> Consultant.<br> Coach.<br> Speaker.</span></h1>
+            </section>
+        </div>
 
         <section>
             <h2>Über mich</h2>
@@ -156,10 +158,8 @@
                         Ich bin auf folgenden Veranstaltungen, um für gemeinsame Projekte neuen kreativen Input zu sammeln:
                     </p>
                     <ul>
-                        <li><a href="http://webmontag.de/location/karlsruhe/index" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>Webmontag.Talk</strong></a> (03.06.2019)</li>
-                        <li><a href="https://2019.europe.wordcamp.org/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordCamp Europe 2019</strong></a> (20.06 - 22.06.2019)</li>
-                        <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510800/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordPress Meetup #24</strong></a> (18.07.2019)</li>
-                        <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510818/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordPress Meetup #25</strong></a> (12.09.2019)</li>
+                        <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510800/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>#24 WordPress Meetup Karlsruhe</strong></a></li>
+                        <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510818/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>#25 WordPress Meetup Karlsruhe</strong></a></li>
                     </ul>
                 </li>
             </ul>

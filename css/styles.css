@@ -130,28 +130,24 @@ section {
     margin-bottom: 2rem;
 }
 
-section.fullwidth {
+.fullwidth {
     width: 100%;
 }
 
-section.fullwidth h1 {
+.fullwidth h1 {
     text-align: center;
 }
 
-section.csdw {
-    background-image: url(images/daniel-wiegand.png);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: 0 0;
+.csdw {
+    background-color: var(--marking_color);
     color: var(--secondary_color);
     margin-bottom: 2rem;
-    min-height: 30rem;
 }
 
-section.csdw h1 {
-    font-size: 3rem;
+.csdw h1 {
+    font-size: 5rem;
     font-weight: 700;
-    line-height: 3rem;
+    line-height: 5rem;
     padding-top: 1rem;
     text-align: unset;
     text-transform: uppercase;
@@ -159,11 +155,18 @@ section.csdw h1 {
     width: var(--max_page_width);
 }
 
-section.csdw h1 span {
+.csdw h1 span {
     display: inline-block;
-    font-size: 1.5rem;
-    line-height: 1.5rem;
-    padding-top: 1rem;
+    font-size: 2.5rem;
+    line-height: 2.5rem;
+    padding-top: 2rem;
+}
+
+.csdw section {
+    min-height: 31rem;
+    background-image: url(images/daniel-wiegand2.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 
 header ul li {
@@ -242,25 +245,40 @@ footer a:hover {
     header ul.social {
         text-align: center;
     }
-
-    section.csdw h1 {
-        width: 100%;
-    }
 }
 
-@media only screen and (max-width: 639px) {
-    section.csdw {
-        background-image: url(images/sm-daniel-wiegand.png);
-        min-height: 18rem;
+@media only screen and (max-width: 800px) {
+    .csdw section {
+        background-image: none;
+        min-height: 25rem;
     }
 
-    section.csdw h1 {
+    .csdw h1 {
+        font-size: 3rem;
+    }
+
+    .csdw h1 span {
         font-size: 2rem;
+        line-height: 2rem;
     }
 
-    section.csdw h1 span {
+}
+
+
+@media only screen and (max-width: 639px) {
+    .csdw section {
+        min-height: 10rem;
+    }
+
+    .csdw h1 {
+        font-size: 2rem;
+        padding-top: 0;
+    }
+
+    .csdw h1 span {
         font-size: 1rem;
         line-height: 1rem;
+        padding-top: 0;
     }
 
     ul.logo {
