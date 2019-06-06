@@ -245,6 +245,10 @@ footer a:hover {
     header ul.social {
         text-align: center;
     }
+
+    .csdw h1 {
+        width: 100%;
+    }
 }
 
 @media only screen and (max-width: 800px) {

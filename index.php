@@ -140,7 +140,7 @@
                         <span class="adr work postal-code">76131</span> <span class="adr work locality">Karlsruhe</span><br>
                         <span class="adr work country-name">Deutschland</span>
                     </address>  
-                    <p>Anfahrtsinformationen auf <a href="https://goo.gl/maps/gB5VgH1Awiy4LyU98" target="_blank" rel="nofollow noopener">Google Maps</a>.</p>
+                    <p>Anfahrtsinformationen auf <a href="https://goo.gl/maps/gB5VgH1Awiy4LyU98" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> Google Maps</a>.</p>
                 </li>
                 <li>
                     <h3>Meine Kontaktinfos</h3>
