@@ -292,10 +292,6 @@ footer a:hover {
 }
 
 @media only screen and (max-width: 499px) {
-    .csdw section {
-        background-image: none;
-    }
-
     ul.logo {
         grid-template-columns: 48% 48%;
     }
