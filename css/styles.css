@@ -249,7 +249,7 @@ footer a:hover {
 
 @media only screen and (max-width: 800px) {
     .csdw section {
-        background-image: none;
+        background-size: 40%;
         min-height: 25rem;
     }
 
@@ -267,6 +267,7 @@ footer a:hover {
 
 @media only screen and (max-width: 639px) {
     .csdw section {
+        background-size: 30%;
         min-height: 10rem;
     }
 
@@ -291,6 +292,10 @@ footer a:hover {
 }
 
 @media only screen and (max-width: 499px) {
+    .csdw section {
+        background-image: none;
+    }
+
     ul.logo {
         grid-template-columns: 48% 48%;
     }
