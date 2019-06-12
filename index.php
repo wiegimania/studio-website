@@ -119,11 +119,11 @@
             <h2>Meine Kunden & Partner</h2>
             <p>Seit meiner Selbstständigkeit betreue ich in unterschiedlichen Tätigkeiten, bsp. als Entwickler, Berater, Projektmanager, uvm., meine nationalen und internationalen Kunden. Eine Auswahl finden sie hier:</p>
             <ul class="logo">
-                <li><img src="images/Smashing-Magazine-Logo.png" alt="Logo Smashing Magazine" /></li>
                 <li><img src="images/AWO-Logo.png" alt="Logo AWO" /></li>
+                <li><img src="images/Smashing-Magazine-Logo.png" alt="Logo Smashing Magazine" /></li>
                 <li><img src="images/Chrono24-Logo.png" alt="Logo Chrono24" /></li>
-                <li><img src="images/Theater-Baden-Baden-Logo.png" alt="Logo Theater Baden-Baden" /></li>
-                <li><img src="images/NORDKAP-Logo.png" alt="Logo Werbeagentur NORD|KAP" /></li>
+                <li><img src="images/esentri-Logo.png" alt="Logo esentri" /></li>
+                <li><img src="images/Home-and-Smart-Logo.png" alt="Logo home&smart" /></li>
                 <li><img src="images/Schlau-Werkstatt-Logo.png" alt="Logo SchlaU-Werkstatt – für Migrationspädagogik" /></li>
             </ul>
         </section>
@@ -158,8 +158,9 @@
                         Ich bin auf folgenden Veranstaltungen, um für gemeinsame Projekte neuen kreativen Input zu sammeln:
                     </p>
                     <ul>
-                        <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510800/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>#24 WordPress Meetup Karlsruhe</strong></a></li>
-                        <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510818/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>#25 WordPress Meetup Karlsruhe</strong></a></li>
+                        <li><a href="https://indieweb.org/events/2019-06-26-homebrew-website-club#Karlsruhe" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong> Homebrew Website Club Meetup</strong></a></li>
+                        <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510800/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordPress Meetup Karlsruhe</strong></a></li>
+                        <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510818/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordPress Meetup Karlsruhe</strong></a></li>
                     </ul>
                 </li>
             </ul>
