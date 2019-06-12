@@ -148,7 +148,7 @@ section {
     font-size: 5rem;
     font-weight: 700;
     line-height: 5rem;
-    padding-top: 1rem;
+    padding-top: 3rem;
     text-align: unset;
     text-transform: uppercase;
     margin: 0 auto;
@@ -158,7 +158,7 @@ section {
 .csdw h1 span {
     display: inline-block;
     font-size: 2.5rem;
-    line-height: 2.5rem;
+    line-height: 3rem;
     padding-top: 2rem;
 }
 
@@ -192,6 +192,7 @@ ul.iconlist li:before {
 ul.logo {
     display: grid;
     grid-template-columns: 16% 16% 16% 16% 16% 16%;
+    margin-top: 1rem;
 }
 
 ul.logo li {
