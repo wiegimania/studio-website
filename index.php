@@ -62,6 +62,12 @@
                     </a>
                 </li>
                 <li>
+                    <a href="https://instagram.com/wiegimania/" target="_blank" rel="noopener nofollow">
+                        <svg class="icon icon-instagram" aria-label="Daniel Wiegand on Instagram"><use xlink:href="images/symbol-defs.svg#icon-instagram"></use></svg>
+                        <span class="sr">Daniel Wiegand on Instagram</span>
+                    </a>
+                </li>
+                <li>
                     <a href="https://github.com/wiegimania" target="_blank" rel="noopener nofollow">
                         <svg class="icon icon-github" aria-label="Daniel Wiegand on GitHub"><use xlink:href="images/symbol-defs.svg#icon-github"></use></svg>
                         <span class="sr">Daniel Wiegand on GitHub</span>
@@ -86,7 +92,7 @@
         <a id="inhalt"></a>
         <div class="fullwidth csdw">
             <section>
-                <h1>Daniel Wiegand<br><span>Creative Technologist.<br> Adventurer.<br> Consultant.<br> Coach.<br> Speaker.</span></h1>
+                <h1>Daniel Wiegand<br><span>Creative Technologist.<br> Adventurer.<br> Programmer.<br> Consultant.<br> Speaker.</span></h1>
             </section>
         </div>
 
@@ -149,7 +155,7 @@
                         <a class="email" href="mailto:daniel@wiegand.io" target="_blank" rel="noopener noreferrer"><svg class="icon icon-envelope-o"><use xlink:href="images/symbol-defs.svg#icon-envelope-o"></use></svg> daniel@wiegand.io</a><br>
                         <a href="skype:wiegimania" rel="noopener nofollow"><svg class="icon icon-skype" aria-label="Daniel Wiegand on Skype"><use xlink:href="images/symbol-defs.svg#icon-skype"></use></svg> Skype</a><br>
                         <a href="https://www.linkedin.com/in/wiegimania/" target="_blank" rel="noopener nofollow"><svg class="icon icon-linkedin" aria-label="Daniel Wiegand on LinkedIn"><use xlink:href="images/symbol-defs.svg#icon-linkedin"></use></svg> LinkedIn</a><br>
-                        <a href="https://twitter.com/wiegimania/" target="_blank" rel="noopener nofollow"><svg class="icon icon-twitter" aria-label="Daniel Wiegand on Twitter"><use xlink:href="images/symbol-defs.svg#icon-twitter"></use></svg>  Twitter</a>
+                        <a href="https://twitter.com/wiegimania/" target="_blank" rel="noopener nofollow"><svg class="icon icon-twitter" aria-label="Daniel Wiegand on Twitter"><use xlink:href="images/symbol-defs.svg#icon-twitter"></use></svg>  Twitter</a><br><a href="https://instagram.com/wiegimania/" target="_blank" rel="noopener nofollow"><svg class="icon icon-instagram" aria-label="Daniel Wiegand on Instagram"><use xlink:href="images/symbol-defs.svg#icon-instagram"></use></svg> Instagram</a>
                     </address>  
                 </li>
                 <li>
@@ -158,7 +164,6 @@
                         Ich bin auf folgenden Veranstaltungen, um für gemeinsame Projekte neuen kreativen Input zu sammeln:
                     </p>
                     <ul>
-                        <li><a href="https://indieweb.org/events/2019-06-26-homebrew-website-club#Karlsruhe" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong> Homebrew Website Club Meetup</strong></a></li>
                         <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510800/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordPress Meetup Karlsruhe</strong></a></li>
                         <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510818/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordPress Meetup Karlsruhe</strong></a></li>
                     </ul>
