@@ -142,11 +142,11 @@
                     <h3>Meine Anschrift</h3>
                     <address class="vcard">
                         <span class="fn org"><strong>Creative Studio Daniel Wiegand</strong></span><br>
-                        <span class="adr work street-address">Durlacher Allee 53</span><br>
-                        <span class="adr work postal-code">76131</span> <span class="adr work locality">Karlsruhe</span><br>
+                        <span class="adr work street-address">Schwetzinger Str. 88</span><br>
+                        <span class="adr work postal-code">76139</span> <span class="adr work locality">Karlsruhe</span><br>
                         <span class="adr work country-name">Deutschland</span>
                     </address>  
-                    <p>Anfahrtsinformationen auf <a href="https://goo.gl/maps/gB5VgH1Awiy4LyU98" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> Google Maps</a>.</p>
+                    <p>Anfahrtsinformationen auf <a href="https://goo.gl/maps/4NBoLj1GTNBKF4qp7" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> Google Maps</a>.</p>
                 </li>
                 <li>
                     <h3>Meine Kontaktinfos</h3>
@@ -164,8 +164,8 @@
                         Ich bin auf folgenden Veranstaltungen, um für gemeinsame Projekte neuen kreativen Input zu sammeln:
                     </p>
                     <ul>
-                        <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510800/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordPress Meetup Karlsruhe</strong></a></li>
                         <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510818/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordPress Meetup Karlsruhe</strong></a></li>
+                        <li><a href="https://www.unkonf.de/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>UNKONF 2019</strong></a></li>
                     </ul>
                 </li>
             </ul>
