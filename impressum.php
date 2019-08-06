@@ -178,7 +178,7 @@
                 Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: Daniel Wiegand
             </p>
             <p>
-                <strong>Iluustration:</strong><br><a href="http://lauraserra.org/" target="_blank" rel="noopener noreferrer">Laura Serra | Illustration & Lettering</a>
+                <strong>Illustration:</strong><br><a href="http://lauraserra.org/" target="_blank" rel="noopener noreferrer">Laura Serra | Illustration & Lettering</a>
             </p>
             <h3>Haftungsausschluss:</h3>
             <h4>Haftung für Inhalte</h4>
