@@ -50,19 +50,6 @@
 }
 
 .icon { 
-    /* 
-    icon-envelope-o
-    icon-external-link
-    icon-phone
-    icon-twitter
-    icon-github
-    icon-linkedin
-    icon-instagram
-    icon-skype
-    icon-foursquare
-    icon-wordpress
-    icon-spotify
-     */
     display: inline-block;
     width: 1em;
     height: 1em;
@@ -164,7 +151,7 @@ section {
 
 .csdw section {
     min-height: 31rem;
-    background-image: url(images/daniel-wiegand4.png);
+    background-image: url(images/illustration-daniel-wiegand.jpg);
     background-repeat: no-repeat;
     background-position: bottom right;
 }
@@ -272,7 +259,7 @@ footer a:hover {
 
 @media only screen and (max-width: 639px) {
     .csdw section {
-        background-size: 30%;
+        background-size: 28%;
         min-height: 10rem;
     }
 
@@ -297,6 +284,11 @@ footer a:hover {
 }
 
 @media only screen and (max-width: 499px) {
+    
+    .csdw section {
+        background-size: 40%;
+    }
+
     ul.logo {
         grid-template-columns: 48% 48%;
     }

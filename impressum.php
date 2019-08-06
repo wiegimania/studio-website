@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="de">
     <head>
-        <title>Daniel Wiegand | Creative Technologist. Adventurer. Consultant. Coach. Speaker.</title>
+        <title>Impressum / Daniel Wiegand | Creative Technologist. Adventurer. Consultant. Coach. Speaker.</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="Creative Studio Daniel Wiegand - Ihr Dienstleister aus Karlsruhe in den Bereichen Webentwicklung & Consulting mit den Schwerpunkten HTML, CSS, PHP, WordPress & Performance" />
@@ -160,81 +160,35 @@
         </div>
 
         <section>
-            <h2>Über mich</h2>
+            <h2>Impressum</h2>
             <p>
-                Mein Name ist Daniel Wiegand. Seit 2016 arbeite ich freiberuflich in den Bereichen Consulting und Entwicklung, mit den Schwerpunkten Frontend und WordPress.
+                <address class="vcard">
+                    <span class="fn org"><strong>Creative Studio Daniel Wiegand</strong></span><br>
+                    <span class="adr work street-address">Schwetzinger Str. 88</span><br>
+                    <span class="adr work postal-code">76139</span> <span class="adr work locality">Karlsruhe</span><br>
+                    <span class="tel work voice">+49 170 4706439</span><br><br>
+                    <a class="email" href="mailto:daniel@wiegand.io" target="_blank" rel="noopener noreferrer">daniel@wiegand.io</a><br>
+                    <a class="url" href="https://wiegand.io/">https://wiegand.io/</a><br><br>
+                </address> 
             </p>
             <p>
-                Vor Gründung des Creative Studio Daniel Wiegand war ich knapp 10 Jahre Geschäftsführender Gesellschafter / Technischer Leiter der FirstSquare GmbH, eine der führenden Digitalagenturen aus Karlsruhe.
+                Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz: DE305123487
             </p>
-            <h3>Leistungen</h3>
             <p>
-                Sie sind auf der Suche nach einem ganzheitlichen technischen Partner &ndash; von der Beratung, über die Konzeption bis zur Umsetzung? Durch meine langjährige Erfahrung habe ich ein hohes Expertenwissen in den unterschiedlichen Bereichen. Ein Auszug meiner Leistungen finden Sie hier:<br>
+                Inhaltlich Verantwortlicher gemäß § 55 Abs. 2 RStV: Daniel Wiegand
             </p>
-            <ul class="iconlist">
-                <li>Responsive Frontends</li>
-                <li>Accessibility</li>
-                <li>WordPress-Entwicklung & Systembetreuung</li>
-                <li>Performance Audits</li>
-                <li>Workshops</li>
-                <li>uvm.</li>
-            </ul>
             <p>
-                <a href="#contact">Sprechen Sie mich an</a>.
+                <strong>Iluustration:</strong><br><a href="http://lauraserra.org/" target="_blank" rel="noopener noreferrer">Laura Serra | Illustration & Lettering</a>
             </p>
-        </section>
-
-        <section>
-            <h2>Meine Kunden & Partner</h2>
-            <p>Seit meiner Selbstständigkeit betreue ich in unterschiedlichen Tätigkeiten, bsp. als Entwickler, Berater, Projektmanager, uvm., meine nationalen und internationalen Kunden. Eine Auswahl finden sie hier:</p>
-            <ul class="logo">
-                <li><img src="images/AWO-Logo.png" alt="Logo AWO" /></li>
-                <li><img src="images/Smashing-Magazine-Logo.png" alt="Logo Smashing Magazine" /></li>
-                <li><img src="images/Chrono24-Logo.png" alt="Logo Chrono24" /></li>
-                <li><img src="images/esentri-Logo.png" alt="Logo esentri" /></li>
-                <li><img src="images/Home-and-Smart-Logo.png" alt="Logo home&smart" /></li>
-                <li><img src="images/Schlau-Werkstatt-Logo.png" alt="Logo SchlaU-Werkstatt – für Migrationspädagogik" /></li>
-            </ul>
-        </section>
-
-        <section id="contact">
-            <h2>Kontakt</h2>
-
-            <ul class="card">
-                <li>
-                    <h3>Meine Anschrift</h3>
-                    <address class="vcard">
-                        <span class="fn org"><strong>Creative Studio Daniel Wiegand</strong></span><br>
-                        <span class="adr work street-address">Schwetzinger Str. 88</span><br>
-                        <span class="adr work postal-code">76139</span> <span class="adr work locality">Karlsruhe</span><br>
-                        <span class="adr work country-name">Deutschland</span>
-                    </address>  
-                    <p>Anfahrtsinformationen auf <a href="https://goo.gl/maps/4NBoLj1GTNBKF4qp7" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> Google Maps</a>.</p>
-                </li>
-                <li>
-                    <h3>Meine Kontaktinfos</h3>
-                    <address class="vcard">
-                        <a href="tel:+491704706439" rel="noopener noreferrer" class="tel work voice"><svg class="icon icon-phone" aria-label="Phone"><use xlink:href="images/symbol-defs.svg#icon-phone"></use></svg> +49 170 4706439</a><br>
-                        <a class="email" href="mailto:daniel@wiegand.io" target="_blank" rel="noopener noreferrer"><svg class="icon icon-envelope-o"><use xlink:href="images/symbol-defs.svg#icon-envelope-o"></use></svg> daniel@wiegand.io</a><br>
-                        <a href="skype:wiegimania" rel="noopener nofollow"><svg class="icon icon-skype" aria-label="Daniel Wiegand on Skype"><use xlink:href="images/symbol-defs.svg#icon-skype"></use></svg> Skype</a><br>
-                        <a href="https://www.linkedin.com/in/wiegimania/" target="_blank" rel="noopener nofollow"><svg class="icon icon-linkedin" aria-label="Daniel Wiegand on LinkedIn"><use xlink:href="images/symbol-defs.svg#icon-linkedin"></use></svg> LinkedIn</a><br>
-                        <a href="https://twitter.com/wiegimania/" target="_blank" rel="noopener nofollow"><svg class="icon icon-twitter" aria-label="Daniel Wiegand on Twitter"><use xlink:href="images/symbol-defs.svg#icon-twitter"></use></svg>  Twitter</a><br><a href="https://instagram.com/wiegimania/" target="_blank" rel="noopener nofollow"><svg class="icon icon-instagram" aria-label="Daniel Wiegand on Instagram"><use xlink:href="images/symbol-defs.svg#icon-instagram"></use></svg> Instagram</a>
-                    </address>  
-                </li>
-                <li>
-                    <h3>Treffen Sie mich</h3>
-                    <p>
-                        Ich bin auf folgenden Veranstaltungen, um für gemeinsame Projekte neuen kreativen Input zu sammeln:
-                    </p>
-                    <ul>
-                        <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510818/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordPress Meetup Karlsruhe</strong></a></li>
-                        <li><a href="https://www.unkonf.de/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>UNKONF 2019</strong></a></li>
-                    </ul>
-                </li>
-            </ul>
+            <h3>Haftungsausschluss:</h3>
+            <h4>Haftung für Inhalte</h4>
             <p>
-                Aber auch unsere Region hat einiges zu bieten und so können Sie mich regelmäßig auf dem <a href="http://webmontag.de/location/karlsruhe/index" rel="nofollow noopener">Webmontag Karlsruhe (Co-Organistor)</a>, <a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/" rel="nofollow noopener">WordPress Meetup Karlsruhe (Co-Organistor)</a> oder anderen Events in und um Karlsruhe treffen.
-            </p> 
+                Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+            </p>
+            <h4>Haftung für Links</h4>
+            <p>
+                Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+            </p>
         </section>
 
         <footer>
