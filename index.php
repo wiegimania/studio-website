@@ -230,6 +230,7 @@
                         <li><a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/events/260510818/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordPress Meetup Karlsruhe</strong></a></li>
                         <li><a href="https://www.unkonf.de/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>UNKONF 2019</strong></a></li>
                         <li><a href="https://2019.stuttgart.wordcamp.org/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordCamp Stuttgart</strong></a></li>
+                        <li><a href="https://newadventuresconf.com/2020/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>New Adventures conference</strong></a></li>
                     </ul>
                 </li>
             </ul>
