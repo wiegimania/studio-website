@@ -1,0 +1,295 @@
+/* reset */
+*,*:before,*:after{margin:0;border:0;padding:0;box-sizing:border-box}article,aside,details,figcaption,figure,footer,header,hgroup,main,nav,section,summary{display:block}
+
+/* web font */ 
+/* muli-300 - latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 300;
+  src: url('fonts/muli-v11-latin-300.woff2') format('woff2'),
+       url('fonts/muli-v11-latin-300.woff') format('woff');
+}
+
+/* muli-regular - latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/muli-v11-latin-regular.woff2') format('woff2'),
+       url('fonts/muli-v11-latin-regular.woff') format('woff');
+}
+
+/* muli-700 - latin */
+@font-face {
+  font-family: 'Muli';
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/muli-v11-latin-700.woff2') format('woff2'),
+       url('fonts/muli-v11-latin-700.woff') format('woff');
+}
+
+
+/* variables */
+:root {
+    --primary_color: rgb(21, 21, 21);
+    --secondary_color: rgb(255, 255, 255);
+    --marking_color: rgb(242, 145, 0); /* rgb(184, 41, 47); <-- dunkler Rotton */
+    --fonts: 'Muli', sans-serif;
+    --max_page_width: 1130px;
+}
+
+
+/* custom styles */
+.sr {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
+
+.icon { 
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+    vertical-align: sub;
+}
+
+body {
+    color: var(--primary_color);
+    font-family: var(--fonts);
+}
+
+h2, h3 {
+    color: var(--marking_color);
+    padding: 1rem 0rem 0.25rem 0rem;
+}
+
+a {
+    color: var(--primary_color);
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition:.5s;
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--marking_color);
+}
+
+p {
+    hyphens: auto;
+    padding: 0.5rem 0;
+}
+
+address {
+    font-style: normal;
+}
+
+header {
+    background-color: var(--secondary_color);
+    display: grid;
+    grid-template-columns: 50% 50%;
+    padding: 1rem 0;
+}
+
+header ul.social {
+    text-align: right;
+}
+
+section ul li {
+    font-weight: 600;
+    list-style-type: none;
+}
+
+header, section {
+    margin: 0 auto;
+    width: var(--max_page_width);
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+.fullwidth {
+    width: 100%;
+}
+
+.fullwidth h1 {
+    text-align: center;
+}
+
+.csdw {
+    background-color: var(--marking_color);
+    color: var(--secondary_color);
+    margin-bottom: 2rem;
+}
+
+.csdw h1 {
+    font-size: 5rem;
+    font-weight: 700;
+    line-height: 5rem;
+    padding-top: 3rem;
+    text-align: unset;
+    text-transform: uppercase;
+    margin: 0 auto;
+    width: var(--max_page_width);
+}
+
+.csdw h1 span {
+    display: inline-block;
+    font-size: 2.5rem;
+    line-height: 3rem;
+    padding-top: 2rem;
+}
+
+.csdw section {
+    min-height: 31rem;
+    background-image: url(images/illustration-daniel-wiegand.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+header ul li {
+    display: inline;
+}
+
+ul.iconlist li {
+    line-height: 1.5rem;
+}
+ul.iconlist li:before {
+    height: 0.7rem;
+    width: 1em;
+    content: '';
+    display: inline-block;
+    background-image: url(images/check.png);
+    background-image: url(images/check.svg);
+    background-size: contain;
+    background-repeat: no-repeat; 
+    margin-right:0.2rem; 
+}
+
+
+ul.logo {
+    display: grid;
+    grid-template-columns: 16% 16% 16% 16% 16% 16%;
+    margin-top: 1rem;
+}
+
+ul.logo li {
+    text-align: center;
+    vertical-align: middle;
+}
+
+ul.logo li img {
+    width: 100%;
+}
+
+ul.card {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    margin-bottom: 1em;
+}
+
+ul.card li {
+    font-weight: 400;
+    line-height: 1.5em;
+    padding: 0 1em 0 0;
+}
+
+footer {
+    background-color: var(--marking_color);
+    color: var(--secondary_color);
+    padding: 1rem;
+    text-align: center;
+}
+
+footer a {
+    color: var(--secondary_color);
+}
+
+footer a:hover {
+    color: var(--primary_color);
+}
+
+
+@media only screen and (max-width: 1129px) {
+    header, section {
+        padding: 0 1rem;
+        width: 100%;
+    }
+    header {
+        grid-template-columns: 100%;
+        font-size: 0.9rem;
+        padding: 2rem 1rem;
+        text-align: center;
+    }
+    header ul.social {
+        text-align: center;
+    }
+
+    .csdw h1 {
+        width: 100%;
+    }
+}
+
+@media only screen and (max-width: 800px) {
+    .csdw section {
+        background-size: 40%;
+        min-height: 25rem;
+    }
+
+    .csdw h1 {
+        font-size: 3rem;
+    }
+
+    .csdw h1 span {
+        font-size: 2rem;
+        line-height: 2rem;
+    }
+
+}
+
+
+@media only screen and (max-width: 639px) {
+    .csdw section {
+        background-size: 28%;
+        min-height: 10rem;
+    }
+
+    .csdw h1 {
+        font-size: 2rem;
+        padding-top: 0;
+    }
+
+    .csdw h1 span {
+        font-size: 1rem;
+        line-height: 1rem;
+        padding-top: 0;
+    }
+
+    ul.logo {
+        grid-template-columns: 32% 32% 32%;
+    }
+
+    ul.card {
+        grid-template-columns: 100%;
+    }
+}
+
+@media only screen and (max-width: 499px) {
+    
+    .csdw section {
+        background-size: 40%;
+    }
+
+    ul.logo {
+        grid-template-columns: 48% 48%;
+    }
+}
