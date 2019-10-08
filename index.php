@@ -228,6 +228,7 @@
                         Ich bin auf folgenden Veranstaltungen, um für gemeinsame Projekte neuen kreativen Input zu sammeln:
                     </p>
                     <ul>
+                        <li><a href="https://indieweb.org/events/2019-10-16-homebrew-website-club#Karlsruhe" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>Homebrew Website Club</strong></a></li>
                         <li><a href="https://www.unkonf.de/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>UNKONF 2019</strong></a></li>
                         <li><a href="https://diwodo.de/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>Digitale Woche Dortmund</strong></a></li>
                         <li><a href="https://2019.stuttgart.wordcamp.org/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordCamp Stuttgart</strong></a></li>
