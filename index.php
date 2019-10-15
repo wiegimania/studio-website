@@ -11,6 +11,7 @@
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="de_DE" />
         <meta name="robots" content="index, follow">
+        <meta name="supported-color-schemes" content="light dark">
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
         <link rel="icon" href="/favicon.ico" type="image/x-icon">  
         <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png" /> 
@@ -228,8 +229,6 @@
                         Ich bin auf folgenden Veranstaltungen, um für gemeinsame Projekte neuen kreativen Input zu sammeln:
                     </p>
                     <ul>
-                        <li><a href="https://indieweb.org/events/2019-10-16-homebrew-website-club#Karlsruhe" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>Homebrew Website Club</strong></a></li>
-                        <li><a href="https://www.unkonf.de/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>UNKONF 2019</strong></a></li>
                         <li><a href="https://diwodo.de/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>Digitale Woche Dortmund</strong></a></li>
                         <li><a href="https://2019.stuttgart.wordcamp.org/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>WordCamp Stuttgart</strong></a></li>
                         <li><a href="https://newadventuresconf.com/2020/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>New Adventures conference</strong></a></li>

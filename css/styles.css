@@ -39,6 +39,16 @@
     --max_page_width: 1130px;
 }
 
+/* dark mode */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --primary_color: rgb(200, 200, 200);
+        --secondary_color: rgb(21, 21, 21);
+    }
+    img {
+        filter: brightness(.8) contrast(1.2);
+    }
+}
 
 /* custom styles */
 .sr {
@@ -60,6 +70,7 @@
 }
 
 body {
+    background-color: var(--secondary_color);
     color: var(--primary_color);
     font-family: var(--fonts);
 }

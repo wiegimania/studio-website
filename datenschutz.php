@@ -11,6 +11,7 @@
         <meta property="og:type" content="website" />
         <meta property="og:locale" content="de_DE" />
         <meta name="robots" content="index, follow">
+        <meta name="supported-color-schemes" content="light dark">
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
         <link rel="icon" href="/favicon.ico" type="image/x-icon">  
         <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png" /> 
