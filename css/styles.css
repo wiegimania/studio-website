@@ -174,18 +174,6 @@ header ul li {
 ul.iconlist li {
     line-height: 1.5rem;
 }
-ul.iconlist li:before {
-    height: 0.7rem;
-    width: 1em;
-    content: '';
-    display: inline-block;
-    background-image: url(images/check.png);
-    background-image: url(images/check.svg);
-    background-size: contain;
-    background-repeat: no-repeat; 
-    margin-right:0.2rem; 
-}
-
 
 ul.logo {
     display: grid;

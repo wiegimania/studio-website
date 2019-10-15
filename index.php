@@ -173,12 +173,12 @@
                 Sie sind auf der Suche nach einem ganzheitlichen technischen Partner &ndash; von der Beratung, über die Konzeption bis zur Umsetzung? Durch meine langjährige Erfahrung habe ich ein hohes Expertenwissen in den unterschiedlichen Bereichen. Ein Auszug meiner Leistungen finden Sie hier:<br>
             </p>
             <ul class="iconlist">
-                <li>Responsive Frontends</li>
-                <li>Accessibility</li>
-                <li>WordPress-Entwicklung & Systembetreuung</li>
-                <li>Performance Audits</li>
-                <li>Workshops</li>
-                <li>uvm.</li>
+                <li><svg class="icon icon-check"><use xlink:href="images/symbol-defs.svg#icon-check"></use></svg> Responsive Frontends</li>
+                <li><svg class="icon icon-check"><use xlink:href="images/symbol-defs.svg#icon-check"></use></svg> Accessibility</li>
+                <li><svg class="icon icon-check"><use xlink:href="images/symbol-defs.svg#icon-check"></use></svg> WordPress-Entwicklung & Systembetreuung</li>
+                <li><svg class="icon icon-check"><use xlink:href="images/symbol-defs.svg#icon-check"></use></svg> Performance Audits</li>
+                <li><svg class="icon icon-check"><use xlink:href="images/symbol-defs.svg#icon-check"></use></svg> Workshops</li>
+                <li><svg class="icon icon-check"><use xlink:href="images/symbol-defs.svg#icon-check"></use></svg> uvm.</li>
             </ul>
             <p>
                 <a href="#contact">Sprechen Sie mich an</a>.
