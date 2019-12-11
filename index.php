@@ -236,7 +236,7 @@
                 </li>
             </ul>
             <p>
-                Aber auch unsere Region hat einiges zu bieten und so können Sie mich regelmäßig auf dem <a href="http://webmontag.de/location/karlsruhe/index" rel="nofollow noopener">Webmontag Karlsruhe (Co-Organistor)</a>, <a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/" rel="nofollow noopener">WordPress Meetup Karlsruhe (Co-Organistor)</a> oder anderen Events in und um Karlsruhe treffen.
+                Aber auch unsere Region hat einiges zu bieten und so können Sie mich regelmäßig auf dem <a href="http://webmontag.de/location/karlsruhe/index" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> Webmontag Karlsruhe (Co-Organistor)</a>, <a href="https://www.meetup.com/de-DE/WordPress-Meetup-Karlsruhe/" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> WordPress Meetup Karlsruhe (Co-Organistor)</a> oder anderen Events in und um Karlsruhe treffen.
             </p> 
         </section>
 
