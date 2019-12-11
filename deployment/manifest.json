@@ -1,0 +1,16 @@
+{
+    "lang": "de",
+    "short_name": "Daniel Wiegand",
+    "name": "Creative Studio Daniel Wiegand",
+    "icons": [
+        {
+            "src": "/apple-touch-icon-152x152-precomposed.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "minimal-ui",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff"
+}
