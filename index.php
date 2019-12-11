@@ -16,7 +16,8 @@
         <link rel="icon" href="/favicon.ico" type="image/x-icon">  
         <link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120-precomposed.png" /> 
         <link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152-precomposed.png" />
-        <link href="https://github.com/wiegimania" rel="me">        
+        <link href="https://github.com/wiegimania" rel="me">
+        <link rel="manifest" href="https://wiegand.io/manifest.json">   
         <style>
             <?php
             $file = 'css/styles.css';
