@@ -193,7 +193,7 @@
         </section>
 
         <footer>
-            &copy; 2019 Creative Studio Daniel Wiegand | <a href="impressum.html">Impressum</a> | <a href="datenschutz.html">Datenschutzerklärung</a>
+            &copy; 2020 Creative Studio Daniel Wiegand | <a href="impressum.html">Impressum</a> | <a href="datenschutz.html">Datenschutzerklärung</a>
         </footer>
 
         <script defer src="javascript/svgxuse.js"></script> 
