@@ -230,7 +230,6 @@
                         Ich bin auf folgenden Veranstaltungen, um für gemeinsame Projekte neuen kreativen Input zu sammeln:
                     </p>
                     <ul>
-                        <li><a href="https://newadventuresconf.com/2020/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>New Adventures conference</strong></a></li>
                         <li><a href="http://www.toca-me.com/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>TOCA ME</strong></a></li>
                         <li><a href="https://getkirby.com/konf" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>Kirby Konf 2020</strong></a></li>
                     </ul>
