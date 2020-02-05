@@ -232,6 +232,7 @@
                     <ul>
                         <li><a href="http://www.toca-me.com/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>TOCA ME</strong></a></li>
                         <li><a href="https://getkirby.com/konf" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>Kirby Konf 2020</strong></a></li>
+                        <li><a href="https://www.barcamp-pforzheim.de/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>BarCamp Pforzheim</strong></a></li>
                     </ul>
                 </li>
             </ul>
