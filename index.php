@@ -197,6 +197,22 @@
                 <li><img src="images/Home-and-Smart-Logo.png" alt="Logo home&smart" /></li>
                 <li><img src="images/Schlau-Werkstatt-Logo.png" alt="Logo SchlaU-Werkstatt – für Migrationspädagogik" /></li>
             </ul>
+            <h3>Kundenstimmen</h3>
+            <ul class="card card--large">
+                <li>
+                    <figure>
+                        <blockquote>
+                            „Das Coaching mit Daniel war extrem wertvoll für die Planung und Entwicklung unserer Online-Plattform. Durch seine langjährige Erfahrung konnte er uns mit wenigen Blicken Feedback zu unserer technischen Infrastruktur geben und hat uns auf diesem Wege unzählige Stunden Arbeit erspart.“
+                            <footer>
+                                — <cite class="author">Felix Marmann (Co-Founder & CEO)</cite> <cite class="company"><a href="https://www.styng.com/" target="_blank" rel="nofollow noopener">STYNG GmbH</a></cite>
+                            </footer>
+                        </blockquote>
+                    </figure>
+                </li>
+                <li>
+                    Barbara
+                </li>
+            </ul>
         </section>
 
         <section id="contact">
