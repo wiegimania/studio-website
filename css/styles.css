@@ -222,13 +222,25 @@ footer a:hover {
     color: var(--primary_color);
 }
 
+blockquote {
+    hyphens: auto;
+    margin: 0.5rem 0;
+}
+
 blockquote footer {
     background-color: var(--secondary_color);
     color: var(--primary_color);
+    hyphens: none;
 }
 
 blockquote footer a {
     color: var(--primary_color);
+}
+
+figure img {
+    float: left;
+    padding-right: 1rem;
+    padding-bottom: 1rem;
 }
 
 @media only screen and (max-width: 1129px) {

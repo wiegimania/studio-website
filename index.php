@@ -201,6 +201,7 @@
             <ul class="card card--large">
                 <li>
                     <figure>
+                        <img src="images/Felix-Marmann-STYNG.png" alt="Felix Marmann (Co-Founder & CEO) STYNG GmbH" />
                         <blockquote>
                             „Das Coaching mit Daniel war extrem wertvoll für die Planung und Entwicklung unserer Online-Plattform. Durch seine langjährige Erfahrung konnte er uns mit wenigen Blicken Feedback zu unserer technischen Infrastruktur geben und hat uns auf diesem Wege unzählige Stunden Arbeit erspart.“
                             <footer>
@@ -210,7 +211,15 @@
                     </figure>
                 </li>
                 <li>
-                    Barbara
+                    <figure>
+                        <img src="images/Barbara-Przeklasa-esentri.png" alt="Barbara Przeklasa (Head of Marketing & Communications) esentri AG" />
+                        <blockquote>
+                            „Das Coaching mit Daniel war extrem wertvoll für die Planung und Entwicklung unserer Online-Plattform. Durch seine langjährige Erfahrung konnte er uns mit wenigen Blicken Feedback zu unserer technischen Infrastruktur geben und hat uns auf diesem Wege unzählige Stunden Arbeit erspart.“
+                            <footer>
+                                — <cite class="author">Barbara Przeklasa (Head of Marketing & Communications)</cite> <cite class="company"><a href="https://www.esentri.com/" target="_blank" rel="nofollow noopener">esentri AG</a></cite>
+                            </footer>
+                        </blockquote>
+                    </figure>
                 </li>
             </ul>
         </section>
