@@ -214,7 +214,7 @@
                     <figure>
                         <img src="images/Barbara-Przeklasa-esentri.png" alt="Barbara Przeklasa (Head of Marketing & Communications) esentri AG" />
                         <blockquote>
-                            „Das Coaching mit Daniel war extrem wertvoll für die Planung und Entwicklung unserer Online-Plattform. Durch seine langjährige Erfahrung konnte er uns mit wenigen Blicken Feedback zu unserer technischen Infrastruktur geben und hat uns auf diesem Wege unzählige Stunden Arbeit erspart.“
+                            „Wir wollten eine neue Website, die gut zu uns passt und nicht von der Stange ist. Mit Daniel haben wir hierfür den idealen Partner gefunden. Mit viel Erfahrung und frischem Denken hat er uns vom ersten Workshop bis hin zur technischen Umsetzung zum erfolgreichen Relaunch begleitet.“
                             <footer>
                                 — <cite class="author">Barbara Przeklasa (Head of Marketing & Communications)</cite> <cite class="company"><a href="https://www.esentri.com/" target="_blank" rel="nofollow noopener">esentri AG</a></cite>
                             </footer>
