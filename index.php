@@ -221,6 +221,17 @@
                         </blockquote>
                     </figure>
                 </li>
+                <li>
+                    <figure>
+                        <img src="images/Barbara-Przeklasa-esentri.png" alt="Markus Knaup (Head of Marketing & Communications) Chrono24" />
+                        <blockquote>
+                            „Mit seinem breitgefächerten Wissen und seinen pragmatischen Ansätzen unterstützt uns Daniel seit langer Zeit in unserem reichweitenstarken Magazin. Er hat dort eine tragfähige Headless-Lösung umgesetzt, die die Vorteile der WordPress- und Java-Welt vereint.“
+                            <footer>
+                                — <cite class="author">Markus Knaup (Head of Marketing & Communications)</cite> <cite class="company"><a href="https://www.chrono24.com/" target="_blank" rel="nofollow noopener">Chrono24</a></cite>
+                            </footer>
+                        </blockquote>
+                    </figure>
+                </li>
             </ul>
         </section>
 
