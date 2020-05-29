@@ -232,6 +232,17 @@
                         </blockquote>
                     </figure>
                 </li>
+                <li>
+                    <figure>
+                        <img src="images/Berit-Gruendler-AWO-eV.png" alt="Berit Gründler (Leiterin Abteilung Kommunikation) AWO Bundesverband e. V." />
+                        <blockquote>
+                            „Daniel Wiegand begleitet uns schon über sehr viele Jahre in unterschiedlichsten Digitalprojekten. Dabei ist sein lösungsorientiertes und technologieoffenes Agieren ein erfrischender Impuls, wodurch wir gemeinsam viele Projekte erfolgreich umgesetzt haben.“
+                            <footer>
+                                — <cite class="author">Berit Gründler (Leiterin Abteilung Kommunikation)</cite> <cite class="company"><a href="https://www.awo.org/" target="_blank" rel="nofollow noopener">AWO Bundesverband e. V.</a></cite>
+                            </footer>
+                        </blockquote>
+                    </figure>
+                </li>
             </ul>
         </section>
 
