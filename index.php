@@ -169,17 +169,32 @@
             <p>
                 Vor Gründung des Creative Studio Daniel Wiegand war ich knapp 10 Jahre Geschäftsführender Gesellschafter / Technischer Leiter der FirstSquare GmbH, eine der führenden Digitalagenturen aus Karlsruhe.
             </p>
-            <h3>Leistungen</h3>
             <p>
-                Sie sind auf der Suche nach einem ganzheitlichen technischen Partner &ndash; von der Beratung, über die Konzeption bis zur Umsetzung? Durch meine langjährige Erfahrung habe ich ein hohes Expertenwissen in den unterschiedlichen Bereichen. Ein Auszug meiner Leistungen finden Sie hier:<br>
+                Sie sind auf der Suche nach einem ganzheitlichen technischen Partner &ndash; von der Beratung, über die Konzeption bis zur Umsetzung? Durch meine langjährige Erfahrung habe ich ein hohes Expertenwissen in den unterschiedlichen Bereichen.<br>
             </p>
-            <ul class="iconlist">
-                <li><svg class="icon icon-check"><use xlink:href="images/symbol-defs.svg#icon-check"></use></svg> Responsive Frontends</li>
-                <li><svg class="icon icon-check"><use xlink:href="images/symbol-defs.svg#icon-check"></use></svg> Accessibility</li>
-                <li><svg class="icon icon-check"><use xlink:href="images/symbol-defs.svg#icon-check"></use></svg> WordPress-Entwicklung & Systembetreuung</li>
-                <li><svg class="icon icon-check"><use xlink:href="images/symbol-defs.svg#icon-check"></use></svg> Performance Audits</li>
-                <li><svg class="icon icon-check"><use xlink:href="images/symbol-defs.svg#icon-check"></use></svg> Workshops</li>
-                <li><svg class="icon icon-check"><use xlink:href="images/symbol-defs.svg#icon-check"></use></svg> uvm.</li>
+            <ul class="card">
+                <li>
+                    <h3>Beratung</h3>
+                    <p>
+                        Lösungen von der Stange suchen Sie bei mir vergebens. Ich analysiere Ihren Bedarf und biete Ihnen eine umfassende Beratung in den unterschiedlichsten Themenfeldern, von der <em>Teamführung</em> bis zur <em>technischen Umsetzung</em>. Ich liefere Ihnen transparente Ergebnisse und Strategien, die Sie zielgerichtet in die Umsetzung gehen lassen. 
+                    </p>
+                </li>
+                <li>
+                    <h3>Workshops</h3>
+                    <p> 
+                        Gemeinsam erarbeiten wir in individuellen Workshops, fokussiert auf Ihren Bedarf, die optimale Lösung.
+                    </p>
+                    <p> 
+                        Dabei setze ich auf die Google Ventures-Methode <strong>Design Sprint</strong> oder den davon inspirierten <strong>Lightning Descision Jam</strong> mit Übungen wie <em>Sailboat</em>, <em>Dot Voting</em>, <em>10 for 10</em> uvm. 
+                    </p>
+                </li>
+                <li>
+                    <h3>Umsetzung</h3>
+                    <p>
+                        Um die Ergebnisse aus meiner Beratung oder unseren gemeinsamen Workshops zu realisieren, biete ich Ihnen die richtigen Werkzeuge. Egal ob Sie dabei Unterstützung beim Aufbau innerhalb Ihrer Organisation oder der technischen Umsetzung benötigen &ndash; als 
+                        Digitalexperte bin ich breit aufgestellt und liefere die für Sie passende Lösung.
+                    </p>
+                </li>
             </ul>
             <p>
                 <a href="#contact">Sprechen Sie mich an</a>.
