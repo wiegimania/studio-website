@@ -292,7 +292,8 @@
                         Ich bin auf folgenden Veranstaltungen, um für gemeinsame Projekte neuen kreativen Input zu sammeln:
                     </p>
                     <ul>
-                        <li><a href="https://www.barcamp-pforzheim.de/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>BarCamp Pforzheim</strong></a></li>
+                        <?php /* <li><a href="https://www.barcamp-pforzheim.de/" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> <strong>BarCamp Pforzheim</strong></a></li> */ ?>
+                        <li><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> aktuell keine Präsenztermine</li>
                     </ul>
                 </li>
             </ul>
