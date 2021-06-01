@@ -267,12 +267,12 @@
             <ul class="card">
                 <li>
                     <h3>Meine Anschrift</h3>
-                    <address class="vcard">
-                        <span class="fn org"><strong>Creative Studio Daniel Wiegand</strong></span><br>
-                        <span class="adr work street-address">Schwetzinger Str. 88</span><br>
-                        <span class="adr work postal-code">76139</span> <span class="adr work locality">Karlsruhe</span><br>
-                        <span class="adr work country-name">Deutschland</span>
-                        <img class="sr photo" alt="Photo Daniel Wiegand" src="/images/illustration-daniel-wiegand.jpg">
+                    <address class="h-card">
+                        <span class="p-org"><strong>Creative Studio Daniel Wiegand</strong></span><br>
+                        <span class="p-street-address">Schwetzinger Str. 88</span><br>
+                        <span class="p-postal-code">76139</span> <span class="p-locality">Karlsruhe</span><br>
+                        <span class="p-country-name">Deutschland</span>
+                        <img class="sr u-photo" alt="Photo Daniel Wiegand" src="/images/illustration-daniel-wiegand.jpg">
                     </address>  
                     <p>Anfahrtsinformationen auf <a href="https://goo.gl/maps/4NBoLj1GTNBKF4qp7" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> Google Maps</a>.</p>
                 </li>
