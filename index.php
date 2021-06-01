@@ -272,7 +272,9 @@
                         <span class="p-street-address">Schwetzinger Str. 88</span><br>
                         <span class="p-postal-code">76139</span> <span class="p-locality">Karlsruhe</span><br>
                         <span class="p-country-name">Deutschland</span>
-                        <img class="sr u-photo" alt="Photo Daniel Wiegand" src="/images/illustration-daniel-wiegand.jpg">
+                        <a class="u-url url u-uid" href="https://wiegand.io/">
+                            <img class="sr u-photo" alt="Photo Daniel Wiegand" src="/images/illustration-daniel-wiegand.jpg">
+                        </a>
                     </address>  
                     <p>Anfahrtsinformationen auf <a href="https://goo.gl/maps/4NBoLj1GTNBKF4qp7" target="_blank" rel="nofollow noopener"><svg class="icon icon-external-link" aria-label="externer Link"><use xlink:href="images/symbol-defs.svg#icon-external-link"></use></svg> Google Maps</a>.</p>
                 </li>
