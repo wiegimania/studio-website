@@ -379,7 +379,7 @@
         </section>
 
         <footer>
-            &copy; 2021 Creative Studio Daniel Wiegand | <a href="impressum.html">Impressum</a> | <a href="datenschutz.html">Datenschutzerklärung</a>
+            &copy; 2022 Creative Studio Daniel Wiegand | <a href="impressum.html">Impressum</a> | <a href="datenschutz.html">Datenschutzerklärung</a>
         </footer>
 
         <script defer src="javascript/svgxuse.js"></script> 
